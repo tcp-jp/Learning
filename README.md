@@ -2,10 +2,9 @@ Learning Path
 -------------
 Overview 
 --------
-Next Steps 
-----------
-Currently Learning : Assembly 
------------------------------
+### Next Steps 
+#### Currently Learning : Assembly 
+---
 To Complete This (Update as needed)
 1. Read up on Von Neumann architechture // Von Neumann Vs Harvard 
 2. Understand fully the stack and other elements of the CPU (i.e. heap)
@@ -27,14 +26,14 @@ After This
 * Move onto C 
 ---
 
-Prep - Update according to needs
+### Prep - Update according to needs
 ----
 * Von Neumann 
 * Von Neumann Vs Harvard
 * How compilers work
 ---
-Programming 
------------
+### Programming 
+---
 1. Imperative
   1. Assembly [.asm]
   2. C [.c]
@@ -45,10 +44,10 @@ Programming
 4. Machine Learning
   1. Pythorch 
 ---
-General IT  
-----------
+### General IT  
+---
 
 ---
-Hacking
--------
+### Hacking
+---
 
