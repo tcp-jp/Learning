@@ -1,8 +1,8 @@
 Learning Path 
 -------------
 ### Overview 
-#### Currently Learning : Assembly 
-##### Next Steps 
+##### Currently Learning : Assembly 
+###### Next Steps 
 To Complete This (Update as needed)
 1. Read up on Von Neumann architechture // Von Neumann Vs Harvard 
 2. Understand fully the stack and other elements of the CPU (i.e. heap)
