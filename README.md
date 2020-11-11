@@ -2,7 +2,7 @@ Learning Path
 -------------
 ### Overview 
 ##### Currently Learning : Assembly 
-##### Prep Required
+##### Prep 
 * Von Neumann 
 * Von Neumann Vs Harvard
 * How compilers work
