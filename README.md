@@ -2,7 +2,11 @@ Learning Path
 -------------
 ### Overview 
 ##### Currently Learning : Assembly 
-###### Next Steps 
+##### Prep Required
+* Von Neumann 
+* Von Neumann Vs Harvard
+* How compilers work
+##### Next Steps 
 To Complete This (Update as needed)
 1. Read up on Von Neumann architechture // Von Neumann Vs Harvard 
 2. Understand fully the stack and other elements of the CPU (i.e. heap)
@@ -19,13 +23,8 @@ To Complete This (Update as needed)
    3. File Cleaner
    4. Text Editor
    5. Game
-###### After This 
+##### After This 
 * Move onto C 
----
-##### Prep Required
-* Von Neumann 
-* Von Neumann Vs Harvard
-* How compilers work
 ---
 #### Programming 
 1. Imperative
