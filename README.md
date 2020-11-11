@@ -1,6 +1,6 @@
 Learning Path 
 -------------
-## Overview 
+### Overview 
 ### Currently Learning : Assembly 
 #### Next Steps 
 To Complete This (Update as needed)
@@ -19,11 +19,10 @@ To Complete This (Update as needed)
       File Cleaner
       Text Editor
       Game
----
-### After This 
+#### After This 
 * Move onto C 
 ---
-### Prep - Update according to needs
+### Prep Required
 * Von Neumann 
 * Von Neumann Vs Harvard
 * How compilers work
