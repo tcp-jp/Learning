@@ -5,7 +5,7 @@ Learning Path
 ##### Prep 
 * Von Neumann 
 * Von Neumann Vs Harvard
-* How compilers work
+* Registers
 ##### Next Steps 
 To Complete This (Update as needed)
 1. Read up on Von Neumann architechture // Von Neumann Vs Harvard 
