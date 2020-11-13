@@ -17,12 +17,7 @@ To Complete This (Update as needed)
    4. Create iterative and conditional loops
    5. Create functions
    6. Registers 
-4. Create 5 Assembly projects in increasing difficulty
-   1. Calculator that performs operations depending on operator provided
-   2. Network connection logger
-   3. File Cleaner
-   4. Text Editor
-   5. Game
+4. Create fundamental commands that are versatile to use - i.e. a for loop that can be crafted with pseudocode similar to python
 ##### After This 
 * Move onto C 
 ---
