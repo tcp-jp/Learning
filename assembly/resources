@@ -1,7 +1,7 @@
 # Assembly Code
 
 ### Resources
-##### Read
+##### Prerequisites
 Von Neumann (Short) 
 https://tdck.weebly.com/uploads/7/7/0/5/77052163/01_-_von_neumann_architecture.pdf
 
@@ -13,3 +13,6 @@ https://www.researchgate.net/profile/Abdullatif_Baba/publication/331160423_Von-N
 
 Von Neumann Vs Harvard
 http://www.uobabylon.edu.iq/eprints/publication_4_4904_49.pdf
+
+##### How to program assembly
+https://www.tutorialspoint.com/assembly_programming/index.htm

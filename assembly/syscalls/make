@@ -1,0 +1,7 @@
+#!/bin/sh
+nasm -f elf64 syscall.asm 
+ld syscall.o 2> /tmp/null
+rm syscall.o 2> /tmp/null
+./a.out 2> /tmp/null
+
+
